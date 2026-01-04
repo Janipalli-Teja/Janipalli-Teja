@@ -1,5 +1,5 @@
 # Hey There! I'm Teja 👋
-Product-driven engineer working at the intersection of GenAI, full-stack development, and system design.  
+A Product-driven engineer working at the intersection of GenAI, full-stack development, and system design.  
 Focused on building reliable, scalable applications with thoughtful UX and solid architecture.
 
 Currently working as a **freelance engineer**, building production-ready applications for real clients.
@@ -9,11 +9,6 @@ Currently working as a **freelance engineer**, building production-ready applica
   🌐 https://rvresorts.in  
 - **Coach Book** – Role-based management system for coaches to manage player attendance and fee tracking, with zero maintenance cost.
 -   🔗 [Coach Book Demo ](https://github.com/Janipalli-Teja/Coach-App-Demo)
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/teja-janipalli)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Janipalli_teja)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?logo=gmail&logoColor=white)](mailto:janipalliteja29@gmail.com)
 
 ## 💻 Tech Stack I Worked on
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
